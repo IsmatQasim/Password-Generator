@@ -1,8 +1,6 @@
-
-
 ### `npm start`
+Runs the app in the development mode.
 
-Runs the app in the development mode.\
 ### `About The Website`
 It is the random password generator containing lowercase , uppercase , numbers & special characters with the length of 8-20!
 
